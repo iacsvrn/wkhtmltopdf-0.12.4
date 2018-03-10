@@ -21,7 +21,8 @@
 + deb http://archive.canonical.com/ubuntu xenial partner
 + deb-src http://archive.canonical.com/ubuntu xenial partner
 
-+ Обвновляемся: aptitude clean && aptitude update && aptitude upgrade -y
+Обвновляемся:
++ aptitude clean && aptitude update && aptitude upgrade -y
 
 Так как обновилось ядро, требуется ребут:
 
