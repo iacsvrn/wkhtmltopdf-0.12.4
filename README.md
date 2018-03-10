@@ -27,10 +27,7 @@
 
 + reboot
 
-
-+ После перезагрузки, берём файл отсюда: ( https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.4 )
-+ Меня интересует в данном случае: wkhtmltox-0.12.4_linux-generic-amd64.tar.xz.
-+ Качаем, ставим, делаем симлинк.
+После перезагрузки, берём файл отсюда: ( https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.4 ). Меня интересует в данном случае: wkhtmltox-0.12.4_linux-generic-amd64.tar.xz. Качаем, ставим, делаем симлинк.
 
 + cd /tmp
 + wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz
