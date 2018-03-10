@@ -23,8 +23,10 @@
 
 + Обвновляемся: aptitude clean && aptitude update && aptitude upgrade -y
 
-####так как обновилось ядро, требуется ребут:
+Так как обновилось ядро, требуется ребут:
+
 + reboot
+
 
 + После перезагрузки, берём файл отсюда: ( https://github.com/wkhtmltopdf/wkhtmltopdf/releases/tag/0.12.4 )
 + Меня интересует в данном случае: wkhtmltox-0.12.4_linux-generic-amd64.tar.xz.
