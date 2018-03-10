@@ -2,8 +2,9 @@
 
 ### Вернее Ubuntu 16.04 LTS desktop + wkhtmltopdf 0.12.4 (with patched qt).
 
-+ Репозитории берём отсюда: https://repogen.simplylinux.ch/index.php
-+ Правим репозитории: nano /etc/apt/sources.list:
+Репозитории берём отсюда: https://repogen.simplylinux.ch/index.php. Правим репозитории:
+
++ nano /etc/apt/sources.list:
 
 ###### Ubuntu Main Repos
 + deb http://ru.archive.ubuntu.com/ubuntu/ xenial main restricted universe multiverse 
